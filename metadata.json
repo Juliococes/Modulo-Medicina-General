@@ -1,0 +1,6 @@
+{
+  "name": "MedFlow Clinical System",
+  "description": "A practical medical clinical module for managing patient consultations, clinical episodes, and structured medical history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
